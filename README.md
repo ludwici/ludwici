@@ -5,6 +5,7 @@
 
 ## My projects
 - [`Coordinator`](https://github.com/ludwici/Coordinator) — Simple tool for displaying normalized texture coordinates. It will be used in xml-tag in you WoW addons
+- [`Carpet Variants`](https://github.com/ludwici/CarpetVariants) — My first mod for Minecraft. A mod that gives you the ability to place carpets on walls and ceilings. [`CurseForge`](https://www.curseforge.com/minecraft/mc-mods/carpet-variants) [`Modrinth`](https://modrinth.com/mod/carpet-variants)
 - [`DFMinimap`](https://github.com/ludwici/BridgeCord) — Dragonflight minimap for older versions [`Curseforge`](https://www.curseforge.com/wow/addons/dfminimap)
 - [`BeeIsland`](https://github.com/ludwici/BeeIsland) — My old diploma project (not completely finished). PyGame
 - [`IslandPy`](https://github.com/ludwici/IslandPy) — My attempt to draw conclusions from BeeIsland and make a separate library for working with the interface in PyGame
